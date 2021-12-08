@@ -1,10 +1,5 @@
 # psa website code
 
-<a href="http://bogoli.github.io/-folio/">Live Demo</a>
-
-<hr/>
-
-
 ## Features
 
 ### Collections
