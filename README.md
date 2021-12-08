@@ -1,6 +1,4 @@
-# *folio
-A simple theme for showcasing your work, emphasis on whitespace, transparency, and helvetica. 
-
+# psa website code
 
 <a href="http://bogoli.github.io/-folio/">Live Demo</a>
 
